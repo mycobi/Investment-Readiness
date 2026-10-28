@@ -1,6 +1,6 @@
 # Repository contents
 
-Public specification and review materials. The paper is published separately.
+Public specification and review materials.
 
 | File | Role |
 | --- | --- |
@@ -10,6 +10,7 @@ Public specification and review materials. The paper is published separately.
 | [.github/ISSUE_TEMPLATE/spec-defect.yml](.github/ISSUE_TEMPLATE/spec-defect.yml) | Structured feedback form |
 | [.github/PULL_REQUEST_TEMPLATE.md](.github/PULL_REQUEST_TEMPLATE.md) | Repository governance, scope or review support |
 | [.github/workflows/ci.yml](.github/workflows/ci.yml) | Documentation CI |
+| [.github/workflows/release.yml](.github/workflows/release.yml) | Pre-release on each merge to main |
 | [.github/CODEOWNERS](.github/CODEOWNERS) | MYCOBI maintainer code ownership |
 | [.gitignore](.gitignore) | Repository governance, scope or review support |
 | [CHANGELOG.md](CHANGELOG.md) | Repository governance, scope or review support |

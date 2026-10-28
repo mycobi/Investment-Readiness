@@ -33,7 +33,7 @@ People outside MYCOBI do not have write access. They fork the repository and ope
 
 ## Releases
 
-- **Draft tags** (`v0.x.x-draft`): incubation; breaking changes allowed with notice
+- **Draft tags** (`v0.x.x-draft`): incubation; breaking changes allowed with notice. Each later merge to `main` publishes a snapshot pre-release (`v0.x.x-draft.N`) with generated notes. A snapshot does not change the specification version; CHANGELOG.md records each version.
 - **Release candidates** (`v1.0.0-rc.N`): intended stable surface
 - **Normative releases** (`v1.0.0+`): breaking changes require an Accepted RFC and a migration note
 
@@ -48,8 +48,6 @@ Follow CONTRIBUTING.md and MAINTAINER-REVIEW.md for every incorporated contribut
 For the review window, MYCOBI designates @andry3ag and @scott-mycobi as reviewers. A PR authored by one of them is approved by the other; a PR from anyone else may be approved by either. MYCOBI may add reviewers, including outside practitioners, and records any change in OPEN-DECISIONS.md.
 
 Each release records a version, date, accepted RFCs and change summary. Preserve earlier releases and agreement versions. Later CLA edits do not alter earlier acceptance.
-
-The research paper remains separately authored and versioned. A methodology change arising from paper feedback follows this process.
 
 ## Review window and decisions
 

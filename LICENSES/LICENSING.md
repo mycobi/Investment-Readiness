@@ -5,8 +5,7 @@
 | Public specification text in docs/, including dimensions, 200-point architecture, public criteria wording, evidence principles and bands | CC BY 4.0 under [LICENSE](../LICENSE) |
 | Accepted amendments published as specification text | CLA for inbound rights; CC BY for published specification text |
 | Contributor agreements and governance/process documents | Participation terms; no license to private product assets |
-| The Missing Standard research paper | Separate publication and rights notice; no manuscript here |
-| Future books | Separate rights notices; not automatically CC BY |
+| Other MYCOBI publications and books | Separate rights notices; not automatically CC BY |
 | Private rubrics, within-dimension weights, scoring software and analytics | Not included or licensed by this repository |
 | Names and branding | [NOTICE](../NOTICE); no trademark grant under CC BY |
 
@@ -30,9 +29,7 @@ The license covers public specification text, including docs/, and not separatel
 
 ## Participation
 
-Paper reviewers use the separate publication page. Linking or commenting does not bring the paper under this license or make its reviewers CLA signatories.
-
-If original feedback is proposed for incorporation into the standard, obtain explicit acceptance before use. Substantial material used only in the paper needs appropriate separate permission; do not assume every reviewer accepted this CLA.
+If original feedback is proposed for incorporation into the standard, obtain explicit acceptance before use.
 
 Contributors retain ownership. CLA version 1.2 permits MYCOBI to reuse accepted Contributions in commercial products, papers and books. See [CONTRIBUTING.md](../CONTRIBUTING.md) and [CONTRIBUTOR-ACCEPTANCE.md](../CONTRIBUTOR-ACCEPTANCE.md).
 

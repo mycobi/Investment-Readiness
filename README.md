@@ -1,4 +1,4 @@
-# Investment Readiness: IRD and IRS
+# Investment Readiness
 
 **Investment Readiness** is an open draft vocabulary for what institutional investors examine in diligence: 5 dimensions, 25 criteria, CC BY 4.0.
 
@@ -34,13 +34,12 @@ The specification does not disclose response rubrics, detailed scoring weights, 
 - [Assessment review workflow](docs/05-assessment-review-workflow.md)
 - [Field-testing templates](templates/README.md), including the [illustrative walkthrough](templates/illustrative-walkthrough.md)
 - [Review roadmap](ROADMAP.md), [open decisions](OPEN-DECISIONS.md), and [comment dispositions](DISPOSITION-OF-COMMENTS.md)
+- Background: [Why We Built a Credit Rating for Private Companies](https://www.mycobi.com/blog/why-we-built-a-credit-rating-for-private-companies)
 - [Complete inventory](CONTENTS.md)
 
 ## Participate
 
 Questions and criticism are welcome through issue forms without signing a CLA. [Discussions](https://github.com/mycobi/Investment-Readiness/discussions) is enabled for broad conceptual feedback. People outside MYCOBI propose document changes from a fork. Only MYCOBI maintainers merge. Substantive submissions receive acknowledgment within five business days during the review window. Original material proposed for incorporation follows [CONTRIBUTING.md](CONTRIBUTING.md). Company-owned contributions require separate authority checks.
-
-The paper is a separate publication and is not stored here. Feedback on the methodology belongs here; paper feedback belongs with its publication.
 
 ## Contact
 

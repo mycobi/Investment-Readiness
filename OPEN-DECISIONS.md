@@ -4,7 +4,7 @@ These are steward decisions. Entries marked resolved are kept for the record; th
 
 | ID | Decision | Current state |
 | --- | --- | --- |
-| D-01 | Five band labels | Ranges confirmed. Labels proposed 28 October 2026 for comment: Investment Ready, Nearly Ready, Developing, Early Stage, Pre-Investment Focus. See [methodology section 8](docs/01-methodology.md#8-score-bands). Final labels are set after the review. No funding-round labels. |
+| D-01 | Five band labels | Ranges confirmed. Labels proposed 28 October 2026 for comment: Pre-Investment Focus, Early Stage, Emerging Structure, Solid Foundation, Institutional Grade. See [methodology section 8](docs/01-methodology.md#8-score-bands). Final labels are set after the review. No funding-round labels. |
 | D-02 | Reviewer accounts and private contact route | Resolved 28 October 2026. Reviewers for the review window are @andry3ag and @scott-mycobi, the code owners in [.github/CODEOWNERS](.github/CODEOWNERS); see [GOVERNANCE.md](GOVERNANCE.md). Private contact route is support@mycobi.com; see [SECURITY.md](SECURITY.md). |
 | D-03 | Review phase boundaries, digest dates and acknowledgment target | Five-business-day target confirmed 10 September 2026. Calendar now follows the 28 October 2026 start: close 28 April 2027; digests on the 28th from 28 November 2026 through 28 April 2027. |
 | D-04 | RFC closing time and timezone | Set to 11:59 p.m. America/New_York on 28 April 2027 for calendar administration (moved from 28 March 2027 with the 28 October 2026 start; earlier move from 15 March 2027 on 25 September 2026). |

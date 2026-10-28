@@ -1,6 +1,6 @@
 # Contributor acceptance
 
-Acceptances are recorded through hosted CLA Assistant. See [CONTRIBUTING.md](CONTRIBUTING.md) for its current status and the interim process.
+Acceptances will be recorded through hosted CLA Assistant once it is connected. Until then, see [CONTRIBUTING.md](CONTRIBUTING.md) for the interim process.
 
 ## Ordinary individual contributions
 

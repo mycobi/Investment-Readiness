@@ -27,7 +27,7 @@ Contributors retain ownership. The CLA permits MYCOBI to reuse accepted Contribu
 
 Do not submit confidential company records, credentials, private scoring rules, response rubrics or detection logic. Report vulnerabilities and other confidential concerns to support@mycobi.com as described in [SECURITY.md](SECURITY.md). Do not post that material in public issues or pull requests. The public architecture and evidence categories are in scope. Use plain language.
 
-The research paper by Scott H. Winston of MYCOBI is a separate publication. Do not upload its manuscript or future book manuscripts here. Methodology issues identified by paper reviewers may be raised here; original text intended for incorporation follows the acceptance process.
+Do not upload manuscripts of separate MYCOBI publications here.
 
 ## Review
 

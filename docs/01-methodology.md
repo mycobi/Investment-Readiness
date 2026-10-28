@@ -76,15 +76,17 @@ This standard does **not** publish a fixed score-to-round-size ladder. Capital-m
 
 ## 8. Score bands
 
-| IRS range | Proposed label (comment welcome) |
-| --- | --- |
-| 800-1000 | Investment Ready |
-| 600-799 | Nearly Ready |
-| 400-599 | Developing |
-| 200-399 | Early Stage |
-| 0-199 | Pre-Investment Focus |
+Scores run from 0 to 1,000. Each band covers 200 points.
 
-The five ranges are proposed guidance for assessed investment readiness, not funding-round assignments. The labels are proposed and open for comment through the review window. One open question is whether "Investment Ready" reads as a pass or fail gate, which this standard does not intend. A higher band does not establish low investment risk, funding eligibility or particular terms.
+| Band | IRS score | Proposed label (comment welcome) |
+| --- | --- | --- |
+| 1 | 0 to 199 | Pre-Investment Focus |
+| 2 | 200 to 399 | Early Stage |
+| 3 | 400 to 599 | Emerging Structure |
+| 4 | 600 to 799 | Solid Foundation |
+| 5 | 800 to 1,000 | Institutional Grade |
+
+The five ranges are proposed guidance for assessed investment readiness, not funding-round assignments. The labels are proposed and open for comment through the review window. A higher band does not establish low investment risk, funding eligibility or particular terms.
 
 The aggregate score must be read with dimension findings, evidence categories and material limitations. Stage provides context; a strong pre-seed assessment does not establish preparation for public-market diligence.
 
