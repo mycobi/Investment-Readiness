@@ -1,0 +1,50 @@
+name: Expansion request
+description: Propose adding or extending a diligence domain in the standard
+title: "[Expansion]: "
+labels: ["feedback-wanted", "specification", "needs-discussion"]
+body:
+  - type: textarea
+    id: location
+    attributes:
+      label: File, section or criterion
+      description: Cite the affected location, or state new domain and identify the nearest related criterion.
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Specification version or commit
+    validations:
+      required: true
+  - type: textarea
+    id: gap
+    attributes:
+      label: Missing or under-specified domain
+      description: Identify the nearest existing file, section or criterion, or explain that this is a new domain. What concern is not covered well today?
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why this belongs in an industry vocabulary
+      description: Who needs a shared name for this, and why?
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed criterion or section
+      description: Suggested name, dimension, and measurement scope (no scoring weights).
+    validations:
+      required: false
+  - type: checkboxes
+    id: rfc
+    attributes:
+      label: Process
+      options:
+        - label: I am willing to draft an RFC if maintainers ask
+
+  - type: markdown
+    attributes:
+      value: |
+        General feedback does not require CLA acceptance. Original material offered for incorporation requires explicit acceptance using CONTRIBUTOR-ACCEPTANCE.md before use. No CLA bot is live. Do not upload paper manuscripts, confidential records or proprietary rubrics. Do not post vulnerabilities or other sensitive information here. Email support@mycobi.com and see SECURITY.md.

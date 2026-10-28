@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Conceptual discussion
+    url: https://github.com/mycobi/Investment-Readiness/discussions
+    about: Discuss broad methodology questions, scope and interpretation.
+  - name: Private contact
+    url: https://github.com/mycobi/Investment-Readiness#contact
+    about: Conduct reports, removal of confidential material, entity contribution paperwork or trademark permission. Email support@mycobi.com.
+  - name: Security and confidential reports
+    url: https://github.com/mycobi/Investment-Readiness/blob/main/SECURITY.md
+    about: Report vulnerabilities or confidential concerns to support@mycobi.com. Do not post sensitive information in public issues.

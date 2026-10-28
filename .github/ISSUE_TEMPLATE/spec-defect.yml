@@ -1,0 +1,42 @@
+name: Spec defect
+description: Requirements appear to contradict each other or are factually inconsistent
+title: "[Defect]: "
+labels: ["specification", "needs-discussion"]
+body:
+  - type: input
+    id: version
+    attributes:
+      label: Specification version or commit
+    validations:
+      required: true
+  - type: textarea
+    id: location
+    attributes:
+      label: Location(s) in the standard
+      description: Files and sections involved
+    validations:
+      required: true
+  - type: textarea
+    id: contradiction
+    attributes:
+      label: What contradicts or fails?
+      description: Explain the defect without sharing private company data.
+    validations:
+      required: true
+  - type: textarea
+    id: impact
+    attributes:
+      label: Impact on adopters
+    validations:
+      required: false
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed fix
+    validations:
+      required: false
+
+  - type: markdown
+    attributes:
+      value: |
+        General feedback does not require CLA acceptance. Original material offered for incorporation requires explicit acceptance using CONTRIBUTOR-ACCEPTANCE.md before use. No CLA bot is live. Do not upload paper manuscripts, confidential records or proprietary rubrics. Do not post vulnerabilities or other sensitive information here. Email support@mycobi.com and see SECURITY.md.

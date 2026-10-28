@@ -1,0 +1,41 @@
+name: Field review
+description: Report an observation from using the public review worksheet
+title: "[Field review]: "
+labels: ["feedback-wanted", "specification", "needs-discussion"]
+body:
+  - type: input
+    id: version
+    attributes:
+      label: Specification version
+    validations:
+      required: true
+  - type: textarea
+    id: location
+    attributes:
+      label: File, section or criterion
+    validations:
+      required: true
+  - type: textarea
+    id: observation
+    attributes:
+      label: Observation and context
+      description: Describe what was unclear or useful without confidential company information.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence categories and limitations
+      description: Describe types only. Do not upload source records or private scoring rules.
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed improvement
+      description: Optional replacement wording or suggested follow-up.
+    validations:
+      required: false
+  - type: markdown
+    attributes:
+      value: "Feedback needs no CLA signature. Original material offered for incorporation follows CONTRIBUTOR-ACCEPTANCE.md. No CLA bot is live. A worksheet does not produce an official IRS. Do not post vulnerabilities or other sensitive information here. Email support@mycobi.com and see SECURITY.md."

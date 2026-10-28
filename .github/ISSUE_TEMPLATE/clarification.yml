@@ -1,0 +1,38 @@
+name: Clarification request
+description: A section of the standard is ambiguous or poorly named
+title: "[Clarification]: "
+labels: ["feedback-wanted", "specification", "needs-discussion"]
+body:
+  - type: input
+    id: version
+    attributes:
+      label: Specification version or commit
+    validations:
+      required: true
+  - type: textarea
+    id: location
+    attributes:
+      label: Location in the standard
+      description: File and section (e.g. docs/02-criteria-index.md · FH-03)
+      placeholder: docs/02-criteria-index.md · FH-03
+    validations:
+      required: true
+  - type: textarea
+    id: ambiguity
+    attributes:
+      label: What is ambiguous?
+      description: Quote or paraphrase the confusing text and explain the possible readings.
+    validations:
+      required: true
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: Suggested clarification
+      description: Optional proposed wording.
+    validations:
+      required: false
+
+  - type: markdown
+    attributes:
+      value: |
+        General feedback does not require CLA acceptance. Original material offered for incorporation requires explicit acceptance using CONTRIBUTOR-ACCEPTANCE.md before use. No CLA bot is live. Do not upload paper manuscripts, confidential records or proprietary rubrics. Do not post vulnerabilities or other sensitive information here. Email support@mycobi.com and see SECURITY.md.
