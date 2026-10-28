@@ -54,7 +54,7 @@ The public architecture consists of five dimensions and five criteria per dimens
 
 Public specification text is licensed under [LICENSE](LICENSE). Separate publications and private implementations are not covered. Branding is addressed in [NOTICE](NOTICE). See [LICENSES/LICENSING.md](LICENSES/LICENSING.md).
 
-The current public index describes criteria, not a complete scored questionnaire. The five band ranges are recorded in the methodology; names remain an open steward decision.
+The current public index describes criteria, not a complete scored questionnaire. The five band ranges and their proposed labels are in the methodology; the labels are open for comment.
 
 ## Validation status
 

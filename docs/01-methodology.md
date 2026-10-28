@@ -76,15 +76,15 @@ This standard does **not** publish a fixed score-to-round-size ladder. Capital-m
 
 ## 8. Score bands
 
-| IRS range | Public label |
+| IRS range | Proposed label (comment welcome) |
 | --- | --- |
-| 800-1000 | Pending steward decision |
-| 600-799 | Pending steward decision |
-| 400-599 | Pending steward decision |
-| 200-399 | Pending steward decision |
-| 0-199 | Pending steward decision |
+| 800-1000 | Investment Ready |
+| 600-799 | Nearly Ready |
+| 400-599 | Developing |
+| 200-399 | Early Stage |
+| 0-199 | Pre-Investment Focus |
 
-The five ranges are proposed guidance for assessed investment readiness, not funding-round assignments. Labels remain open for review. A higher band does not establish low investment risk, funding eligibility or particular terms.
+The five ranges are proposed guidance for assessed investment readiness, not funding-round assignments. The labels are proposed and open for comment through the review window. One open question is whether "Investment Ready" reads as a pass or fail gate, which this standard does not intend. A higher band does not establish low investment risk, funding eligibility or particular terms.
 
 The aggregate score must be read with dimension findings, evidence categories and material limitations. Stage provides context; a strong pre-seed assessment does not establish preparation for public-market diligence.
 
