@@ -17,4 +17,4 @@ Describe the problem, affected version and sections, and resulting behavior.
 - [ ] I reviewed the public disclosure boundary.
 - [ ] I ran the documentation check.
 
-Follow CONTRIBUTOR-ACCEPTANCE.md for acceptance. These checkboxes do not accept the CLA. Hosted CLA Assistant is not connected, and no CLA bot is live. If a bot check is configured later, a passing check does not replace review of copied issue text or entity authority.
+Follow CONTRIBUTOR-ACCEPTANCE.md for acceptance. These checkboxes do not accept the CLA. A passing CLA check does not replace review of copied issue text or entity authority.

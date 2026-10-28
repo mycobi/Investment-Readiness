@@ -1,6 +1,22 @@
 # Investment Readiness: IRD and IRS
 
-**Status:** Draft for a scheduled six-month review; contributor-service activation pending.
+**Investment Readiness** is an open draft vocabulary for what institutional investors examine in diligence: 5 dimensions, 25 criteria, CC BY 4.0.
+
+**Why it's different:** it separates what a company *claims* from what its own systems *record*. Most readiness evidence is authored by the company being assessed; bank, accounting and cap-table history is not.
+
+**We want your critique** through 28 April 2027: what's missing, what overlaps, what's wrong. [Start in Discussions →](https://github.com/mycobi/Investment-Readiness/discussions)
+
+MYCOBI builds a commercial scoring implementation on this. The criteria are open; our weights are not. [Details below](#scope-and-rights).
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="docs/images/criteria-grid-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="docs/images/criteria-grid-light.png">
+  <img width="600" alt="Investment Readiness: 25 criteria across five dimensions (Financial Health, Operational Maturity, Market Position, Governance & Compliance, Traction), 200 points each, 1,000 total." src="docs/images/criteria-grid-light.png">
+</picture>
+
+See the criteria applied in a [hypothetical worked example](templates/illustrative-walkthrough.md).
+
+**Status:** Draft open for a six-month public review.
 **Specification version:** 0.1.0-draft
 **Steward:** MYCOBI, Inc.
 **RFC window:** 28 October 2026 to 28 April 2027.
@@ -16,13 +32,13 @@ The specification does not disclose response rubrics, detailed scoring weights, 
 - [Methodology](docs/01-methodology.md) and [25 criteria](docs/02-criteria-index.md)
 - [Public scope and evidence](docs/04-public-scope-and-evidence.md)
 - [Assessment review workflow](docs/05-assessment-review-workflow.md)
-- [Field-testing templates](templates/README.md)
+- [Field-testing templates](templates/README.md), including the [illustrative walkthrough](templates/illustrative-walkthrough.md)
 - [Review roadmap](ROADMAP.md), [open decisions](OPEN-DECISIONS.md), and [comment dispositions](DISPOSITION-OF-COMMENTS.md)
 - [Complete inventory](CONTENTS.md)
 
 ## Participate
 
-Questions and criticism are welcome through issue forms without signing a CLA. [Discussions](https://github.com/mycobi/Investment-Readiness/discussions) is enabled for broad conceptual feedback. People outside MYCOBI propose document changes from a fork. Only MYCOBI maintainers merge. Substantive submissions receive acknowledgment within five business days during the review window. Original material proposed for incorporation follows [CONTRIBUTING.md](CONTRIBUTING.md). Individual acceptance will use hosted CLA Assistant once configured; it is not connected by these documents, and no CLA bot is live. Company-owned contributions require separate authority checks.
+Questions and criticism are welcome through issue forms without signing a CLA. [Discussions](https://github.com/mycobi/Investment-Readiness/discussions) is enabled for broad conceptual feedback. People outside MYCOBI propose document changes from a fork. Only MYCOBI maintainers merge. Substantive submissions receive acknowledgment within five business days during the review window. Original material proposed for incorporation follows [CONTRIBUTING.md](CONTRIBUTING.md). Company-owned contributions require separate authority checks.
 
 The paper is a separate publication and is not stored here. Feedback on the methodology belongs here; paper feedback belongs with its publication.
 
@@ -45,4 +61,4 @@ The current public index describes criteria, not a complete scored questionnaire
 The proposed framework's predictive validity, calibration and effects on diligence and financing remain to be established. Field testing during this review evaluates clarity, applicability and evidence availability without reconstructing private scoring mechanics.
 
 Local document checks run with: python scripts/check_docs.py
-GitHub checks are defined in .github/workflows/ci.yml. A local pass is not evidence of a successful GitHub run or configured merge protection.
+The same checks run on GitHub through .github/workflows/ci.yml.
