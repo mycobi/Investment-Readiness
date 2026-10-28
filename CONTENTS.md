@@ -47,3 +47,5 @@ Public specification and review materials. The paper is published separately.
 | [templates/illustrative-walkthrough.md](templates/illustrative-walkthrough.md) | Practitioner review and feedback support |
 | [.github/ISSUE_TEMPLATE/config.yml](.github/ISSUE_TEMPLATE/config.yml) | Practitioner review and feedback support |
 | [docs/06-feedback-process.md](docs/06-feedback-process.md) | Practitioner review and feedback support |
+| [docs/images/criteria-grid-dark.png](docs/images/criteria-grid-dark.png) | README criteria grid, dark mode |
+| [docs/images/criteria-grid-light.png](docs/images/criteria-grid-light.png) | README criteria grid, light mode |
