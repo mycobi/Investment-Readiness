@@ -1,6 +1,6 @@
 # Contributor acceptance
 
-The selected service is hosted CLA Assistant. It is not activated by these documents, and no CLA bot is live.
+Acceptances will be recorded through hosted CLA Assistant once it is connected. Until then, see [CONTRIBUTING.md](CONTRIBUTING.md) for the interim process.
 
 ## Ordinary individual contributions
 
@@ -9,7 +9,7 @@ The selected service is hosted CLA Assistant. It is not activated by these docum
 3. Acceptance of version 1.2 dated 2026-09-09 covers that submission and later Contributions intentionally offered under that version. You need not post a new acceptance comment on every PR.
 4. Accept again when the agreement changes. Existing agreements are not silently amended.
 
-Questions and criticism require no signature. Original material proposed for incorporation does. For material first offered in an issue or RFC, maintainers must include its author in the acceptance review when that material is incorporated. No CLA bot is running. If a check is configured later, a passing bot check alone may not identify authors whose wording was copied into a commit by someone else.
+Questions and criticism require no signature. Original material proposed for incorporation does. For material first offered in an issue or RFC, maintainers must include its author in the acceptance review when that material is incorporated. A passing CLA check alone may not identify authors whose wording was copied into a commit by someone else.
 
 ## Exceptions
 

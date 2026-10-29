@@ -17,7 +17,7 @@ Use structured Issues for specific defects, clarifications and field observation
 1. Identify the version, file and section or criterion.
 2. Describe the problem and any supporting sources. Proposed replacement wording is welcome.
 3. Identify everyone whose original material is included, including text taken from issues. Disclose external sources, licenses and AI assistance; verify accuracy and rights.
-4. If the submission offers original material for incorporation, follow [contributor acceptance](CONTRIBUTOR-ACCEPTANCE.md). Acceptance of the current CLA is required before maintainers merge that material. Hosted CLA Assistant is the intended recorder. It is not connected, and no CLA bot is live. Until maintainers announce that the service is active, incorporation requires a separately verified explicit acceptance of the exact agreement version and contribution scope. A pull-request checkbox, a commit sign-off, or another person's statement is not acceptance.
+4. If the submission offers original material for incorporation, follow [contributor acceptance](CONTRIBUTOR-ACCEPTANCE.md). Acceptance of the current CLA is required before maintainers merge that material. Hosted CLA Assistant will record acceptances, but it is not connected yet. Until maintainers announce that the service is active, incorporation requires a separately verified explicit acceptance of the exact agreement version and contribution scope. A pull-request checkbox, a commit sign-off, or another person's statement is not acceptance.
 5. Run the documentation check described in README.md.
 6. Obtain an authorized MYCOBI maintainer's review. Material changes need an accepted RFC; breaking changes need migration guidance. Only a MYCOBI maintainer merges.
 
@@ -25,12 +25,12 @@ Contributors retain ownership. The CLA permits MYCOBI to reuse accepted Contribu
 
 ## Publication boundary
 
-Do not submit confidential company records, credentials, private scoring rules, response rubrics or detection logic. Report vulnerabilities and other confidential concerns to support@mycobi.com as described in [SECURITY.md](SECURITY.md). Do not post that material in public issues or pull requests. The public architecture and evidence categories are in scope. Use plain language and no em dashes.
+Do not submit confidential company records, credentials, private scoring rules, response rubrics or detection logic. Report vulnerabilities and other confidential concerns to support@mycobi.com as described in [SECURITY.md](SECURITY.md). Do not post that material in public issues or pull requests. The public architecture and evidence categories are in scope. Use plain language.
 
-The research paper by Scott H. Winston of MYCOBI is a separate publication. Do not upload its manuscript or future book manuscripts here. Methodology issues identified by paper reviewers may be raised here; original text intended for incorporation follows the acceptance process.
+Do not upload manuscripts of separate MYCOBI publications here.
 
 ## Review
 
 An authorized MYCOBI reviewer other than the PR author must approve the current revision. New substantive edits require renewed review. Legal and licensing changes also require steward approval. If no independent authorized reviewer is available, the proposal waits.
 
-See [governance](GOVERNANCE.md) and [maintainer review](MAINTAINER-REVIEW.md). Local documents do not activate GitHub controls, branch protection, or a CLA bot.
+The designated reviewers for the review window are listed in [governance](GOVERNANCE.md). See also [maintainer review](MAINTAINER-REVIEW.md).

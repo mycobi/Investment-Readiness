@@ -1,6 +1,6 @@
 # Repository contents
 
-Public specification and review materials. The paper is published separately.
+Public specification and review materials.
 
 | File | Role |
 | --- | --- |
@@ -10,6 +10,7 @@ Public specification and review materials. The paper is published separately.
 | [.github/ISSUE_TEMPLATE/spec-defect.yml](.github/ISSUE_TEMPLATE/spec-defect.yml) | Structured feedback form |
 | [.github/PULL_REQUEST_TEMPLATE.md](.github/PULL_REQUEST_TEMPLATE.md) | Repository governance, scope or review support |
 | [.github/workflows/ci.yml](.github/workflows/ci.yml) | Documentation CI |
+| [.github/workflows/release.yml](.github/workflows/release.yml) | Pre-release on each merge to main |
 | [.github/CODEOWNERS](.github/CODEOWNERS) | MYCOBI maintainer code ownership |
 | [.gitignore](.gitignore) | Repository governance, scope or review support |
 | [CHANGELOG.md](CHANGELOG.md) | Repository governance, scope or review support |
@@ -47,3 +48,5 @@ Public specification and review materials. The paper is published separately.
 | [templates/illustrative-walkthrough.md](templates/illustrative-walkthrough.md) | Practitioner review and feedback support |
 | [.github/ISSUE_TEMPLATE/config.yml](.github/ISSUE_TEMPLATE/config.yml) | Practitioner review and feedback support |
 | [docs/06-feedback-process.md](docs/06-feedback-process.md) | Practitioner review and feedback support |
+| [docs/images/criteria-grid-dark.png](docs/images/criteria-grid-dark.png) | README criteria grid, dark mode |
+| [docs/images/criteria-grid-light.png](docs/images/criteria-grid-light.png) | README criteria grid, light mode |

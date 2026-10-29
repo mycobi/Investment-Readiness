@@ -44,4 +44,4 @@ The exercise leaves the rest of the diagnostic unreviewed. It does not establish
 
 In a real submission, the maintainer acknowledges the concern within five business days during the review window, identifies the applicable guidance and records a reasoned disposition. If a substantive standard change is proposed, an RFC is required.
 
-No Issue was filed and no maintainer decision has occurred for this example. Do not enter its imagined concern into the real disposition log as received feedback.
+No Issue was filed and no maintainer decision has occurred for this example, so it does not appear in the disposition log.

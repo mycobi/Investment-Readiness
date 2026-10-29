@@ -1,0 +1,40 @@
+name: Release
+on:
+  push:
+    branches: [main]
+permissions:
+  contents: write
+  pull-requests: read
+concurrency:
+  group: release
+  cancel-in-progress: false
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Skip PRs labeled no-release
+        id: skip
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          labels=$(gh api repos/${{ github.repository }}/commits/${{ github.sha }}/pulls --jq '.[0].labels[].name' || true)
+          if echo "$labels" | grep -qx no-release; then echo "skip=true" >> "$GITHUB_OUTPUT"; fi
+      - name: Create next pre-release
+        if: steps.skip.outputs.skip != 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          version=$(grep -oP '(?<=\*\*Specification version:\*\* )\S+' README.md || true)
+          if [ -z "$version" ]; then
+            echo "::error::README.md has no '**Specification version:**' line"
+            exit 1
+          fi
+          base="v$version"
+          if ! gh release view "$base" >/dev/null 2>&1; then
+            tag="$base"
+          else
+            n=$(gh release list --limit 200 --json tagName --jq "[.[].tagName | select(startswith(\"$base.\")) | ltrimstr(\"$base.\") | tonumber] | max // 0")
+            tag="$base.$((n+1))"
+          fi
+          gh release create "$tag" --target "${{ github.sha }}" --prerelease --generate-notes --title "Investment Readiness $tag"

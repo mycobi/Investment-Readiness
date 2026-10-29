@@ -15,7 +15,7 @@
 | Corroboration | Comparison with additional records or sources to assess support for a claim. |
 | Connected system | A source accessed through an authorized integration. Connection alone does not establish independence or accuracy. |
 | Evidence confidence | An interpretation of support for a claim, distinct from the claim itself. Public numeric confidence rules are not specified. |
-| Band | A range used to summarize assessed investment readiness. Band names are pending review. |
+| Band | A range used to summarize assessed investment readiness. Band labels are proposed and open for comment. |
 | Stage-relative | Interpretation considers a company's declared stage and applicable expectations. It does not assign funding eligibility. |
 | TRL | Technology Readiness Level: a nine-level technology maturity scale that originated at NASA, cited in the criteria index as a precedent for a published shared vocabulary. Not part of the IRS. |
 | FH / OM / MP / GC / TR | Financial Health / Operational Maturity / Market Position / Governance and Compliance / Traction. |

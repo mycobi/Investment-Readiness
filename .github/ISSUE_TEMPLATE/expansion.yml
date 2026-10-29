@@ -47,4 +47,4 @@ body:
   - type: markdown
     attributes:
       value: |
-        General feedback does not require CLA acceptance. Original material offered for incorporation requires explicit acceptance using CONTRIBUTOR-ACCEPTANCE.md before use. No CLA bot is live. Do not upload paper manuscripts, confidential records or proprietary rubrics. Do not post vulnerabilities or other sensitive information here. Email support@mycobi.com and see SECURITY.md.
+        General feedback does not require CLA acceptance. Original material offered for incorporation requires explicit acceptance using CONTRIBUTOR-ACCEPTANCE.md before use. Do not upload paper manuscripts, confidential records or proprietary rubrics. Do not post vulnerabilities or other sensitive information here. Email support@mycobi.com and see SECURITY.md.

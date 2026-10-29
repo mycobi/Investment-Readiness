@@ -13,7 +13,7 @@ Copy into a maintainer comment on each PR.
 ## Required checks
 
 - [ ] All original contributors are identified, including incorporated issue text.
-- [ ] Each contributor has a verified separate acceptance, or a CLA Assistant record once that service is connected. CLA Assistant is not connected, and no CLA bot is live.
+- [ ] Each contributor has a verified separate acceptance or a CLA Assistant record.
 - [ ] Acceptance covers this version and submission; copied issue authors and coauthors were checked.
 - [ ] Employer rights and external-source permissions are resolved.
 - [ ] No confidential evidence or proprietary implementation material is included.

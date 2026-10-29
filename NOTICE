@@ -15,29 +15,27 @@ text (reasonable notice is sufficient):
   https://github.com/mycobi/Investment-Readiness
   Licensed under CC BY 4.0
 
-Trademarks and brand identifiers of MYCOBI, Inc. include (without limitation):
+Trademarks of MYCOBI, Inc. include:
 
   - MYCOBI
-  - Investment Readiness
-  - Investment Readiness Diagnostic
-  - Investment Readiness Score
-  - IRD (when used to mean Investment Readiness Diagnostic)
-  - IRS (when used to mean Investment Readiness Score)
+  - MYCOBI Investment Readiness Score
+  - MYCOBI Investment Readiness Diagnostic
+
+"Investment Readiness" and the abbreviations IRD and IRS are used in this
+specification descriptively. MYCOBI does not claim them as trademarks, and
+anyone may use them to refer to or attribute this standard.
 
 Publication of this specification under CC BY 4.0 licenses the specification
-text only. It does not grant trademark rights, brand licenses, or rights to
-present a third-party product or service as an official MYCOBI, Investment
-Readiness Diagnostic, or Investment Readiness Score offering.
+text only. It does not grant rights to the MYCOBI marks, or to present a
+third-party product or service as an official MYCOBI offering or an official
+MYCOBI score.
 
-Do not use the marks above in a way that implies endorsement, certification,
+Do not use the MYCOBI marks in a way that implies endorsement, certification
 or official status without prior written permission from MYCOBI, Inc.
-Request permission at support@mycobi.com. Descriptive, nominative references to the
-standard by its published name are
-expected when attributing under LICENSE; trademark use that causes confusion
-about source or sponsorship is not.
+Request permission at support@mycobi.com.
 
 This repository does not include MYCOBI product source code, scoring engines,
 option rubrics, or proprietary analytics. Those remain MYCOBI commercial IP
 and are not licensed under LICENSE unless separately agreed in writing.
 
-Separate publications: The Missing Standard research paper and future books have their own rights notices and are not licensed here. Links or discussions do not license those publications. This clarification does not revoke earlier license grants.
+Separate publications: other MYCOBI publications and books have their own rights notices and are not licensed here. This clarification does not revoke earlier license grants.

@@ -24,4 +24,4 @@ The submission cutoff is 11:59 p.m. America/New_York on 28 April 2027. This admi
 
 Major structural rewrites SHOULD NOT be introduced during the final two months (28 February to 28 April 2027). A serious defect may justify reopening the affected scope or extending review. The decision and reason MUST be recorded; the calendar must not force adoption of a known defect.
 
-Community triage-call dates and reviewer assignments are not set. See OPEN-DECISIONS.md. This roadmap does not itself make the repository public or activate contributor services.
+Community triage-call dates are not set. Designated reviewers are listed in GOVERNANCE.md.

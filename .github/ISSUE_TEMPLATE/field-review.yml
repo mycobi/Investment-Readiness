@@ -38,4 +38,4 @@ body:
       required: false
   - type: markdown
     attributes:
-      value: "Feedback needs no CLA signature. Original material offered for incorporation follows CONTRIBUTOR-ACCEPTANCE.md. No CLA bot is live. A worksheet does not produce an official IRS. Do not post vulnerabilities or other sensitive information here. Email support@mycobi.com and see SECURITY.md."
+      value: "Feedback needs no CLA signature. Original material offered for incorporation follows CONTRIBUTOR-ACCEPTANCE.md. A worksheet does not produce an official IRS. Do not post vulnerabilities or other sensitive information here. Email support@mycobi.com and see SECURITY.md."

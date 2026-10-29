@@ -37,7 +37,7 @@ What still needs discussion?
 ## Acceptance and decision record
 
 - Contributors and contribution scope:
-- Each contributor's CLA acceptance record (a verified separate acceptance until CLA Assistant is connected; no CLA bot is live):
+- Each contributor's CLA acceptance record (see CONTRIBUTOR-ACCEPTANCE.md):
 - External sources and licenses:
 - Target specification version:
 - Maintainer decision and rationale:

@@ -20,4 +20,4 @@ Replacement wording is optional. A reviewer may identify ambiguity, inconsistent
 6. An independent authorized reviewer examines proposed changes.
 7. Record the disposition and rationale in DISPOSITION-OF-COMMENTS.md and link the resulting change, if any.
 
-Discussions and Issues are enabled. These documents do not record a completed public test of the issue-to-pull-request route. No test submission or simulated disposition is represented as community feedback. Original material offered for incorporation still requires the CLA acceptance in [CONTRIBUTOR-ACCEPTANCE.md](../CONTRIBUTOR-ACCEPTANCE.md). No CLA bot is live.
+Discussions and Issues are enabled. Original material offered for incorporation still requires the CLA acceptance in [CONTRIBUTOR-ACCEPTANCE.md](../CONTRIBUTOR-ACCEPTANCE.md).
